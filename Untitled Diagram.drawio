@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T16:26:30.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="17.4.6" etag="lQayUtz25O6kkTlyn2gS" type="github"><diagram id="peJJlOy68pjZzfu5Uwm2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T18:36:19.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="H92duIoQEUXrVXB3AtP4" version="17.4.6" type="github">
+  <diagram id="peJJlOy68pjZzfu5Uwm2" name="Page-1">
+    <mxGraphModel dx="951" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-2" target="AF-w5FOYHRaHg4K3tC6a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-2" target="AF-w5FOYHRaHg4K3tC6a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-2" target="AF-w5FOYHRaHg4K3tC6a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-3" value="LB: s-event.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-4" value="s-bussvc-app01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-5" value="s-bussvc-app02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-7" value="s-bussvc-app03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-14" target="AF-w5FOYHRaHg4K3tC6a-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-14" target="AF-w5FOYHRaHg4K3tC6a-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-14" target="AF-w5FOYHRaHg4K3tC6a-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="770" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-15" value="new CNAME:&lt;br&gt;s-event.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="740" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-16" value="s-bussvc-app01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-17" value="s-bussvc-app02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-18" value="s-bussvc-app03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-19" value="PCF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-20" target="AF-w5FOYHRaHg4K3tC6a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-20" target="AF-w5FOYHRaHg4K3tC6a-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-21" value="new LB name?:&lt;br&gt;s-event-vm.autozone.com&lt;br&gt;pointing to p-oraclevm-srv04.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-24" value="event-st.apps.nonprod.mem.cloud.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="650" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="AF-w5FOYHRaHg4K3tC6a-28" target="AF-w5FOYHRaHg4K3tC6a-29" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="AF-w5FOYHRaHg4K3tC6a-28" target="AF-w5FOYHRaHg4K3tC6a-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="AF-w5FOYHRaHg4K3tC6a-28" target="AF-w5FOYHRaHg4K3tC6a-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-w5FOYHRaHg4K3tC6a-28" target="AF-w5FOYHRaHg4K3tC6a-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-29" value="s-bussvc-app01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-30" value="s-bussvc-app02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-31" value="s-bussvc-app03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-36" value="keep current LB name: &lt;br&gt;s-event.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1480" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-38" value="PCF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-w5FOYHRaHg4K3tC6a-39" value="event-st.apps.nonprod.mem.cloud.autozone.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1250" width="285" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
