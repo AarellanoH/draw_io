@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T15:49:26.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.2" etag="725A2WcTsQRb0yQZysMy" type="github"><diagram id="ET4vn7Pbj5Puc2S3GItC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-21T22:27:09.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Sh6E1wohVFLNrrrGLfNt" version="20.4.2" type="github">
+  <diagram id="ET4vn7Pbj5Puc2S3GItC" name="Page-1">
+    <mxGraphModel dx="2276" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-1" value="Notification Service&lt;br&gt;endpoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-2" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-3" value="1. Retrieve plugin URL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-5" target="FUOZJpnj4ZZf_ZNHU0gS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="430" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-5" target="FUOZJpnj4ZZf_ZNHU0gS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-5" value="Notification Service&lt;br&gt;Enrichment (content worker)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-6" target="FUOZJpnj4ZZf_ZNHU0gS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-6" target="FUOZJpnj4ZZf_ZNHU0gS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-6" value="Notification Service&lt;br&gt;Delivery (content worker)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-1" target="FUOZJpnj4ZZf_ZNHU0gS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-8" value="b2b plugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-9" value="2. Retrieve SFTP Information from plugin&lt;br&gt;&lt;div style=&quot;background-color: rgb(0, 43, 54); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;  targetServer=files.responsys.net, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;  sourceFileName=Dummy_PV_rebate_testTargetName.csv, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;  recordcount=2, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;  sourceUser=atgqa, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#00ffff&quot;&gt;  targetFileName=Dummy_PV_rebate_One.csv, &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;  targetPath=/home/cli/azpro_scp/test, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#2aa198&quot;&gt;  targetUser=azpro_scp, &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#00ffff&quot;&gt;  sourcePath=/az/ecom/rebates/processed, &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#33ffff&quot;&gt;  sourceServer=azprouat1.autozone.com&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;span style=&quot;color: #2aa198;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FUOZJpnj4ZZf_ZNHU0gS-5" target="FUOZJpnj4ZZf_ZNHU0gS-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="620" as="sourcePoint" />
+            <mxPoint x="350" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(248, 249, 250);&quot;&gt;3. Retrieve CSV file from SFTP&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(0, 43, 54); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#33FF99;fontColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="374" y="350" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-18" value="&lt;span style=&quot;color: rgb(131, 148, 150); background-color: rgb(0, 43, 54); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;CUST,SHOP_NAME,PARENT_PIN,STORE,MONTH,YEAR,HIERDATE,DAYCOUNT,AWS,TOT_SALES,EXCL_SALES,OVERRIDE_SALES,ELIGIBLE_SALES,TOTAL_EO_SALES,ELIGIBLE_EO_SALES,REB,EO,REBATE,EO_REB,TOTAL_REBATE,VENDOR,PAY_PREFERENCE,ADDRESS_LINE1,CITY,STATE,ZIP,ACCOUNT_STATUS,PAYFLAG,EMAIL,STATUS&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(0, 43, 54); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div style=&quot;color: rgb(131, 148, 150);&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div&gt;100096,B  E AUTOMOTIVE,,5,2,2022,20MAR2020,28,487.32,1949.28,843.97,54.89,1050.42,0,0,0,0,0,0,0,,CHECK,7950 C ST,MILLINGTON,TN,38053,A,nopay,,&lt;/div&gt;&lt;div&gt;100103,LEO S SERVICE CENTER,,5,2,2022,02NOV2018,28,2876.58,11506.33,557.31,771.7,10177.32,4447.19,4363.05,0.06,0.04,610.71,174.53,785.24,,CHECK,2502 SIMMONS R,DRUMMONDS,TN,38023,A,pay,,&lt;/div&gt;&lt;div&gt;100224,PEACE AUTO CENTER,,384,2,2022,28DEC2016,28,207.18,828.72,-594,0,1422.72,56.18,56.18,0,0,0,0,0,,CHECK,1203 THORNTON RD,BROWNSVILLE,TN,38012,A,nopay,ktlaunius@fbc.autozone.com,&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-20" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Acton&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#33FF99;fontColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-22" value="5. Send CSV to ActOn API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-23" value="Notifications engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FUOZJpnj4ZZf_ZNHU0gS-25" value="4. Get ActOn token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
