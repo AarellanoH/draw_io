@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T19:01:25.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5_HI3iufP2BShJJ170gY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T19:11:21.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Zf1akr1i7jOBdaFE8-Hx" version="21.6.6" type="github">
   <diagram name="Page-1" id="__Ew0BQZnsr-GjZXLVGN">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="HidH9xInRzpVQGn8SDEV-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" parent="HidH9xInRzpVQGn8SDEV-11" vertex="1">
           <mxGeometry x="41.875" y="-41.875" width="40" height="123.75" as="geometry" />
         </mxCell>
-        <mxCell id="HidH9xInRzpVQGn8SDEV-9" value="Msg Receiver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HidH9xInRzpVQGn8SDEV-11" vertex="1">
+        <mxCell id="HidH9xInRzpVQGn8SDEV-9" value="RabbitMQ Msg enrich" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HidH9xInRzpVQGn8SDEV-11" vertex="1">
           <mxGeometry x="4.9950000000000045" y="5.0049999999999955" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HidH9xInRzpVQGn8SDEV-14" target="HidH9xInRzpVQGn8SDEV-16" edge="1">
@@ -42,7 +42,7 @@
         <mxCell id="HidH9xInRzpVQGn8SDEV-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" parent="HidH9xInRzpVQGn8SDEV-15" vertex="1">
           <mxGeometry x="41.875" y="-41.875" width="40" height="123.75" as="geometry" />
         </mxCell>
-        <mxCell id="HidH9xInRzpVQGn8SDEV-17" value="Msg Receiver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HidH9xInRzpVQGn8SDEV-15" vertex="1">
+        <mxCell id="HidH9xInRzpVQGn8SDEV-17" value="RabbitMQ Msg deliver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HidH9xInRzpVQGn8SDEV-15" vertex="1">
           <mxGeometry x="4.9950000000000045" y="5.0049999999999955" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="HidH9xInRzpVQGn8SDEV-20" target="HidH9xInRzpVQGn8SDEV-27" edge="1">
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-20" value="Delivery Worker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="389.5" y="320" width="120" height="41.88" as="geometry" />
+          <mxGeometry x="337" y="320" width="120" height="41.88" as="geometry" />
         </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HidH9xInRzpVQGn8SDEV-8" target="HidH9xInRzpVQGn8SDEV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,6 +131,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oAcftZWTEW6j2OKeEVD7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="HidH9xInRzpVQGn8SDEV-51" target="oAcftZWTEW6j2OKeEVD7-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="712" />
+              <mxPoint x="590" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-51" value="Epsilon &lt;br&gt;PCM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="588.5" y="650" width="120" height="80" as="geometry" />
         </mxCell>
@@ -168,10 +176,10 @@
           <mxGeometry x="20" y="550.01" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HidH9xInRzpVQGn8SDEV-67" value="Save Opt Status if applicable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="162.5" y="320" width="170" height="20" as="geometry" />
+          <mxGeometry x="120" y="320" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HidH9xInRzpVQGn8SDEV-69" value="Save Opt Status changes – Ongoing Sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="149.49" y="500" width="240.01" height="20" as="geometry" />
+        <mxCell id="HidH9xInRzpVQGn8SDEV-69" value="Opt Status for all customers – One Time Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="348.49" y="713" width="240.01" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oAcftZWTEW6j2OKeEVD7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oAcftZWTEW6j2OKeEVD7-1" target="HidH9xInRzpVQGn8SDEV-27">
           <mxGeometry relative="1" as="geometry" />
@@ -194,8 +202,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oAcftZWTEW6j2OKeEVD7-16" value="Customer Opt API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="273.88" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="oAcftZWTEW6j2OKeEVD7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="oAcftZWTEW6j2OKeEVD7-16" target="HidH9xInRzpVQGn8SDEV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAcftZWTEW6j2OKeEVD7-16" value="Epsilon Opt Status Load Batch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="228.49" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oAcftZWTEW6j2OKeEVD7-20" value="One Time Load – Save Opt Status for customers that are out of sync (Opt changed before Ongoing Sync was on prod)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16" y="764" width="205" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
