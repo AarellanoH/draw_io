@@ -1,17 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T22:58:32.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NO-ms3hXLWP1sjiGuhMc" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T23:18:06.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xwd07CMlNkP8oo4t2CGG" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="330" y="321.5" width="60" height="90" as="geometry" />
+          <mxGeometry x="340" y="430" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-9">
+        <mxCell id="ZKfquur338v5OgfnKdS0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="119.69230769230762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-2" value="Kaleyra" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="98.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="102.5" width="110" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-3" target="ZKfquur338v5OgfnKdS0-7">
           <mxGeometry relative="1" as="geometry" />
@@ -25,52 +33,95 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-7" value="Text&lt;br&gt;STOP = Opt-out&lt;br&gt;or&lt;br&gt;AUTO = Opt-in" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="98.5" width="40.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-9" target="ZKfquur338v5OgfnKdS0-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-9" value="Opt Lists" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="530" y="98.5" width="60" height="80" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-9" value="Kaleyra Opt Lists" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-12" value="Opt in/out of list(s)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="231" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-14" value="MO Optin/Optout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-15" value="AZ (Customer?)&lt;br&gt;Opt Endpoint" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="410" y="331.5" width="110" height="70" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-15" value="AZ (Customer?)&lt;br&gt;Opt Endpoint" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="444" y="347" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="461.5" width="140" height="60" as="geometry" />
+          <mxGeometry x="434" y="515.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
+        <mxCell id="ZKfquur338v5OgfnKdS0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
           <mxGeometry x="40" y="-40" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-19" value="Kafka/PubSub&lt;br&gt;sms-optin-changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
           <mxGeometry x="10" y="15" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.167;entryY=0.851;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="174" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="602" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZKfquur338v5OgfnKdS0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-23" value="Cloudrun(?) sms opt consumer app" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="410" y="561.5" width="120" height="80" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-23" value="Cloudrun(?) sms opt consumer app" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="444" y="615.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-18" target="ZKfquur338v5OgfnKdS0-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-26" value="Check originating system to avoid update loop (when opt comes from Kaleyra MO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="571.5" width="230" height="30" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-26" value="Update Kaleyra via API. Check originating system to avoid update loop (when opt comes from Kaleyra MO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="665.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-27" target="ZKfquur338v5OgfnKdS0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-27" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="343" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160.25" y="305.75" width="60" height="198.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-33" value="" style="group" vertex="1" connectable="0" parent="ZKfquur338v5OgfnKdS0-37">
+          <mxGeometry x="5" width="55" height="158.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKfquur338v5OgfnKdS0-33">
+          <mxGeometry x="-5" y="-5.75" width="60" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-28" value="az.com" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="ZKfquur338v5OgfnKdS0-33">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-29" value="store" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="ZKfquur338v5OgfnKdS0-33">
+          <mxGeometry y="54.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-30" value="etc" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="ZKfquur338v5OgfnKdS0-33">
+          <mxGeometry y="106.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-35" value="Change opt status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-37">
+          <mxGeometry y="168.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-36" target="ZKfquur338v5OgfnKdS0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-49" value="Option 1: &quot;Realtime&quot; External API call to AZ" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362" y="141" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-51" target="ZKfquur338v5OgfnKdS0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-51" value="Kaleyra SFTP server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="34.16" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-53" target="ZKfquur338v5OgfnKdS0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-53" value="SFTP/Job Consumer" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="642.08" y="347" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-57" value="Save records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="406" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-59" value="Option 2: Use SFTP solution" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="86" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
