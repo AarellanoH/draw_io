@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T23:38:45.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oMp_ZYxc3uoDjbk4hLuv" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T23:44:04.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="c1_RwdmENW6KLMeKF0qP" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,10 +144,10 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-67" value="As-Is" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#6c8ebf;" parent="ZKfquur338v5OgfnKdS0-60" vertex="1">
           <mxGeometry x="231.49" y="15" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-69" value="API to be used can be:&lt;br&gt;&lt;ol&gt;&lt;li&gt;saveProperties API: Requires a multistep program (we could probably use the existing one and simulate the user sending STOP/WEBOPTIN/ETC keywords (Virtual MO).&lt;/li&gt;&lt;li&gt;2. optIn/optOut API. The user would just be opted in/out without confirmation SMS or other feedback to the user.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZKfquur338v5OgfnKdS0-69" value="API to be used can be:&lt;br&gt;&lt;ol&gt;&lt;li&gt;saveProperties API: Requires a multistep program (we could probably use the existing one and simulate the user sending STOP/WEBOPTIN/ETC keywords (Virtual MO). This API also supports saving properties like name, last name, source, etc.&lt;/li&gt;&lt;li&gt;optIn/optOut API. The user would just be opted in/out without confirmation SMS or other feedback to the user.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210.5" y="710" width="230" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="JGVr5VOKQt7Dqzj7q6qr-1" value="Treating Opt Update as another Kaleyra event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="JGVr5VOKQt7Dqzj7q6qr-1" value="Treating Opt Update as another Kaleyra event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="642.08" y="492" width="142.92" height="115.5" as="geometry" />
         </mxCell>
       </root>
