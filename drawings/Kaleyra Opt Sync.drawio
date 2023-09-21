@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T21:14:31.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xvPx6txloobaneOKpSc3" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T22:58:32.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NO-ms3hXLWP1sjiGuhMc" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="310" width="60" height="90" as="geometry" />
+          <mxGeometry x="330" y="321.5" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-9">
           <mxGeometry relative="1" as="geometry" />
@@ -25,6 +25,9 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-7" value="Text&lt;br&gt;STOP = Opt-out&lt;br&gt;or&lt;br&gt;AUTO = Opt-in" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="98.5" width="40.5" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-9" target="ZKfquur338v5OgfnKdS0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-9" value="Opt Lists" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="98.5" width="60" height="80" as="geometry" />
         </mxCell>
@@ -33,6 +36,41 @@
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-14" value="MO Optin/Optout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-15" value="AZ (Customer?)&lt;br&gt;Opt Endpoint" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="331.5" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="461.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
+          <mxGeometry x="40" y="-40" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-19" value="Kafka/PubSub&lt;br&gt;sms-optin-changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
+          <mxGeometry x="10" y="15" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.167;entryY=0.851;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="174" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-23" value="Cloudrun(?) sms opt consumer app" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="561.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-18" target="ZKfquur338v5OgfnKdS0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-26" value="Check originating system to avoid update loop (when opt comes from Kaleyra MO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="571.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
