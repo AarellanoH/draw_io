@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T20:33:21.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="9E7Nob3JuBXHV5Z7aVSI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T21:14:31.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xvPx6txloobaneOKpSc3" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
-    <mxGraphModel>
+    <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-2" value="Kaleyra" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="98.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-3" target="ZKfquur338v5OgfnKdS0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-3" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-7" target="ZKfquur338v5OgfnKdS0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-7" value="Text&lt;br&gt;STOP = Opt-out&lt;br&gt;or&lt;br&gt;AUTO = Opt-in" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="98.5" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-9" value="Opt Lists" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="98.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-12" value="Opt in/out of list(s)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-14" value="MO Optin/Optout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
