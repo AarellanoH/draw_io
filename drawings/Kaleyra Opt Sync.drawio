@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T23:20:31.236Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tudtYs0xOQnc0bPdo-Ut" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T23:24:19.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sLow1XotYoT7b0CTXuMx" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
-    <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,8 +99,8 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-36" target="ZKfquur338v5OgfnKdS0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-49" value="Option 1: &quot;Realtime&quot; External API call to AZ" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="141" width="126" height="30" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-49" value="Kaleyra to AZ Option 1: &quot;Realtime&quot; External API call to AZ" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362" y="141" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-51" target="ZKfquur338v5OgfnKdS0-53">
           <mxGeometry relative="1" as="geometry" />
@@ -117,8 +117,32 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-57" value="Save records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="406" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-59" value="Option 2: Use SFTP solution" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZKfquur338v5OgfnKdS0-59" value="Kaleyra to AZ Option 2: Use SFTP solution" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="86" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="780" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-62" value="New" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="70.02" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-63" value="Modify" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="150" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-64" value="Retired" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="310" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-65" value="Transitional" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="390" y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-66" value="&lt;b&gt;Legend:&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="10" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-67" value="As-Is" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#6c8ebf;" vertex="1" parent="ZKfquur338v5OgfnKdS0-60">
+          <mxGeometry x="231.49" y="15" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
