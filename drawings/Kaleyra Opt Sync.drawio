@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T23:43:54.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XphrLb8ntDYSm9xJD6Kz" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T23:37:46.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XI9qw9mXcFGQXj1g8bPO" version="21.6.8" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-9">
@@ -45,22 +45,22 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-15" target="ZKfquur338v5OgfnKdS0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-15" value="AZ (Customer?)&lt;br&gt;Opt Endpoint" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="444" y="347" width="110" height="70" as="geometry" />
+        <mxCell id="ZKfquur338v5OgfnKdS0-15" value="AZ Customer Optin&lt;br&gt;Endpoint (v1/optins/)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="432" y="343" width="136" height="77" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="434" y="515.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
+        <mxCell id="ZKfquur338v5OgfnKdS0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#B3B3B3;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
           <mxGeometry x="40" y="-40" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-19" value="Kafka/PubSub&lt;br&gt;sms-optin-changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
+        <mxCell id="ZKfquur338v5OgfnKdS0-19" value="Kafka&amp;nbsp;contact-optin-changed-event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKfquur338v5OgfnKdS0-20">
           <mxGeometry x="10" y="15" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-23" value="Cloudrun(?) sms opt consumer app" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZKfquur338v5OgfnKdS0-23" value="Customer event consumer (PCF)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="444" y="615.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-18" target="ZKfquur338v5OgfnKdS0-23">
@@ -146,9 +146,6 @@
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-69" value="API to be used can be:&lt;br&gt;&lt;ol&gt;&lt;li&gt;saveProperties API: Requires a multistep program (we could probably use the existing one and simulate the user sending STOP/WEBOPTIN/ETC keywords (Virtual MO). This API also supports saving properties like name, last name, source, etc.&lt;/li&gt;&lt;li&gt;optIn/optOut API. The user would just be opted in/out without confirmation SMS or other feedback to the user.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210.5" y="710" width="230" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-70" value="Using new applications specific for Opt Sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="642.08" y="492" width="142.92" height="115.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
