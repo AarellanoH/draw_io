@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T16:41:57.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8_rz_KNpTIMTytTSIrOS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T23:20:45.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_e0yUnTRKxeuIBVutnMG" version="22.0.4" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
-    <mxGraphModel dx="1509" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="344" y="720" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-3" target="ZKfquur338v5OgfnKdS0-7">
+        <mxCell id="OoSU39PZylGbcR47JcE7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZKfquur338v5OgfnKdS0-3" target="ZKfquur338v5OgfnKdS0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-3" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -121,10 +121,10 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-72" value="AZ Systems" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="184" y="556" width="84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-1" value="channel: az.com/store&lt;br&gt;sub-channel: ??&lt;br&gt;interaction-mode: F2F_STR/WEB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OoSU39PZylGbcR47JcE7-1" value="channel: az.com/store&lt;br&gt;sub-channel: ??&lt;br&gt;interaction-mode: F2F_STR/WEB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="286" y="628" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-16" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="OoSU39PZylGbcR47JcE7-16" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="233" y="140" width="580" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-73" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#C73500;fillStyle=auto;strokeWidth=3;fontColor=#000000;" parent="OoSU39PZylGbcR47JcE7-16" vertex="1">
@@ -164,16 +164,16 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-74" value="Kaleyra Systems" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="OoSU39PZylGbcR47JcE7-16" vertex="1">
           <mxGeometry x="17" y="9" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-19" value="KEYWORD: WEBOPTIN&lt;br&gt;KEYWORD: AZSTORE?&lt;br&gt;KEYWORD: OTHER?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OoSU39PZylGbcR47JcE7-19" value="KEYWORD: WEBOPTIN&lt;br&gt;KEYWORD: AZSTORE?&lt;br&gt;KEYWORD: OTHER?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="430" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-20" value="Text Keyword ACQUISITION???&lt;br&gt;to shortcode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="54" y="180" width="130" height="30" as="geometry" />
+        <mxCell id="OoSU39PZylGbcR47JcE7-20" value="Send text to shortcode 67135. Keywords that initiate an acquisition program on Kaleyra:&lt;br&gt;EMLAZ, PROMO, AZ23, etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="150" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-21" value="Download with Keyword as an attribute" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OoSU39PZylGbcR47JcE7-21" value="Download with Keyword as an attribute" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-22" value="Map keyword with channel&lt;br&gt;and&lt;br&gt;Promotional/Transactional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OoSU39PZylGbcR47JcE7-22" value="Map keyword with channel&lt;br&gt;and&lt;br&gt;Promotional/Transactional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="541" y="693" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
