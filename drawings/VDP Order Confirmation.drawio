@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T23:39:55.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e53miwhnUAahUHSeJTq2" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T20:13:45.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dLlnB0nSCp-bDP1cv6pi" version="22.0.5" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
-    <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
             <mxPoint x="261.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-39" value="Trigger Template Broadcast" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-39" value="Trigger Kaleyra API for Template Broadcast" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="201" y="600" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-43" value="Optin phone to TRANSACTIONAL in OneView?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -182,13 +182,13 @@
           <mxGeometry x="584" y="490" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xyxQtKgxWQUahfnz9HQZ-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="439" y="797" width="174" height="63" as="geometry" />
+          <mxGeometry x="439" y="797" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-7" value="Text Y/N" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" parent="xyxQtKgxWQUahfnz9HQZ-1" vertex="1">
           <mxGeometry width="40.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-47" value="Listen for Y/N customer response and optin in case of Y" style="rounded=1;whiteSpace=wrap;html=1;" parent="xyxQtKgxWQUahfnz9HQZ-1" vertex="1">
-          <mxGeometry x="48" y="3" width="126" height="60" as="geometry" />
+        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-47" value="Listen for Y/N customer response and optin in PROMOTIONAL list in case of Y" style="rounded=1;whiteSpace=wrap;html=1;" parent="xyxQtKgxWQUahfnz9HQZ-1" vertex="1">
+          <mxGeometry x="48" y="3" width="126" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
