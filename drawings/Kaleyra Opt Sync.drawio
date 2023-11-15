@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T23:32:40.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="smDun5f4l9XFszoHny3G" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T01:09:40.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Rx7lziKEH5oSMe36pohL" version="22.1.1" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1306" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZKfquur338v5OgfnKdS0-71" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#006EAF;fillStyle=auto;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="134.25" y="550" width="679.75" height="460" as="geometry" />
+          <mxGeometry x="134.25" y="480" width="679.75" height="530" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-1" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="344" y="720" width="60" height="90" as="geometry" />
@@ -76,14 +76,14 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZKfquur338v5OgfnKdS0-36" target="ZKfquur338v5OgfnKdS0-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=1;" parent="1" source="ZKfquur338v5OgfnKdS0-51" target="ZKfquur338v5OgfnKdS0-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="ZKfquur338v5OgfnKdS0-53" target="ZKfquur338v5OgfnKdS0-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKfquur338v5OgfnKdS0-53" value="SFTP/Job Consumer&lt;br&gt;(GCP)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="684" y="637" width="110" height="70" as="geometry" />
+        <mxCell id="-Hb_kW0QIcDTz8L-yWhV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-53" target="ZKfquur338v5OgfnKdS0-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKfquur338v5OgfnKdS0-53" value="Kaleyra opt sync" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="568" y="515" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZKfquur338v5OgfnKdS0-57" value="Save records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="388" y="698" width="60" height="30" as="geometry" />
@@ -153,25 +153,36 @@
         <mxCell id="ZKfquur338v5OgfnKdS0-74" value="Kaleyra Systems" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="OoSU39PZylGbcR47JcE7-16" vertex="1">
           <mxGeometry x="17" y="9" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zLzItF7LIoJebXVwozu4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OoSU39PZylGbcR47JcE7-16" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-51">
+        <mxCell id="zLzItF7LIoJebXVwozu4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="OoSU39PZylGbcR47JcE7-16" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OoSU39PZylGbcR47JcE7-19" value="Keywords specific to the channel the update was made from.&lt;br&gt;Keywords: WEBOPTIN, STOREOPTIN, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="430" width="186" height="70" as="geometry" />
+          <mxGeometry x="100" y="390" width="186" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OoSU39PZylGbcR47JcE7-20" value="Send text to shortcode 67135. Keywords that initiate an acquisition program on Kaleyra:&lt;br&gt;EMLAZ, PROMO, AZ23, etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="150" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OoSU39PZylGbcR47JcE7-21" value="Download with Keyword as an attribute" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="440" width="170" height="50" as="geometry" />
+        <mxCell id="OoSU39PZylGbcR47JcE7-21" value="Fetch opt feed from SFTP server for redundancy. File will be available every 24 hours." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="420" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OoSU39PZylGbcR47JcE7-22" value="Map Keyword with channel/subchanne and categoryType (PROMO, TRANSACTIONAL)l that OneView use." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="541" y="689" width="170" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="zLzItF7LIoJebXVwozu4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2">
+        <mxCell id="zLzItF7LIoJebXVwozu4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="1" source="ZKfquur338v5OgfnKdS0-23" target="ZKfquur338v5OgfnKdS0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Hb_kW0QIcDTz8L-yWhV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKfquur338v5OgfnKdS0-2" target="ZKfquur338v5OgfnKdS0-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="326" />
+              <mxPoint x="340" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Hb_kW0QIcDTz8L-yWhV-5" value="Real-time approach: Call webhook with opt details (shortcode/keyword)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="498" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
