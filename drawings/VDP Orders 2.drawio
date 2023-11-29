@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T19:06:56.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="IQIcNtEX-19sSuvzie6B" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T19:08:38.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YNgQA7zWNwA1wukispUw" version="22.1.5" type="github">
   <diagram name="Page-1" id="bPTVf-BsiwisX3_Dfg2u">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="_wjY70dRSVohhfQBxTAl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGZ3Kz2iyMmezDVCTP1Q-8" target="dGZ3Kz2iyMmezDVCTP1Q-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-8" value="Core Communications Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-8" value="Core Communications Service" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="570" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_wjY70dRSVohhfQBxTAl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGZ3Kz2iyMmezDVCTP1Q-18" target="_wjY70dRSVohhfQBxTAl-5">
@@ -46,13 +46,13 @@
         <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-18" value="Event code = SMS/EMAIL?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="220" width="130" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-26" value="New PCM Template?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-26" value="New PCM Template?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_wjY70dRSVohhfQBxTAl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGZ3Kz2iyMmezDVCTP1Q-66" target="dGZ3Kz2iyMmezDVCTP1Q-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-66" value="Trigger VDPORDERPLACED/&lt;br&gt;VDPORDERREADY/&lt;br&gt;VDPORDERREMINDER&lt;br&gt;MultiStep Programs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-66" value="Trigger VDPORDERPLACED/&lt;br&gt;VDPORDERREADY/&lt;br&gt;VDPORDERREMINDER&lt;br&gt;MultiStep Programs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="168" y="600" width="151" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dGZ3Kz2iyMmezDVCTP1Q-71" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -67,26 +67,26 @@
         <mxCell id="_wjY70dRSVohhfQBxTAl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_wjY70dRSVohhfQBxTAl-5" target="_wjY70dRSVohhfQBxTAl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wjY70dRSVohhfQBxTAl-5" value="Kaleyra Pubsub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_wjY70dRSVohhfQBxTAl-5" value="Kaleyra Pubsub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_wjY70dRSVohhfQBxTAl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_wjY70dRSVohhfQBxTAl-6" target="dGZ3Kz2iyMmezDVCTP1Q-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wjY70dRSVohhfQBxTAl-6" value="Cloudrun Kaleyra Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_wjY70dRSVohhfQBxTAl-6" value="Cloudrun Kaleyra Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_wjY70dRSVohhfQBxTAl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_wjY70dRSVohhfQBxTAl-10" target="_wjY70dRSVohhfQBxTAl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wjY70dRSVohhfQBxTAl-10" value="PCM Pubsub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="_wjY70dRSVohhfQBxTAl-10" value="PCM Pubsub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_wjY70dRSVohhfQBxTAl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_wjY70dRSVohhfQBxTAl-13" target="dGZ3Kz2iyMmezDVCTP1Q-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wjY70dRSVohhfQBxTAl-13" value="Cloudrun PCM Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="_wjY70dRSVohhfQBxTAl-13" value="Cloudrun PCM Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
