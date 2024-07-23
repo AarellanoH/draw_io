@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T18:31:57.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3YfQmNyXTJNU29Jdk5uR" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T18:34:05.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="f3FQFWz6QIRfNlrMAafo" version="24.7.2" type="github">
   <diagram name="Page-1" id="uqe_mdtUUAaG_SBx0GVA">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,15 @@
         </mxCell>
         <mxCell id="PjiC9l44Q3XiG8fzUMRT-54" value="Stakeholder real&amp;nbsp;&lt;div&gt;phone number&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="215.5" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="PjiC9l44Q3XiG8fzUMRT-59">
+          <mxGeometry width="240.00000000000003" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-61" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Questions/Decisions&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PjiC9l44Q3XiG8fzUMRT-59">
+          <mxGeometry x="85.71428571428572" y="216.7741935483871" width="68.57142857142858" height="23.225806451612904" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
