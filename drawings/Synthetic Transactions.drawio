@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T17:29:55.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.2" etag="dbQ8xmjwj1x-CJu8FstR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T18:20:11.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XCGRVmDhWyjRZDBVWJYR" version="24.7.2" type="github">
   <diagram name="Page-1" id="uqe_mdtUUAaG_SBx0GVA">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-2" target="PjiC9l44Q3XiG8fzUMRT-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.03999999999996" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-2" value="&lt;b&gt;Dynatrace Synthetic Monitoring&lt;/b&gt;&lt;br&gt;&lt;br&gt;Trigger API with synthetic transaction header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-5" target="PjiC9l44Q3XiG8fzUMRT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-5" value="Kaleyra event" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="287" y="447" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-14" target="PjiC9l44Q3XiG8fzUMRT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="167" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-9" value="Send &lt;b&gt;&lt;font color=&quot;#a680b8&quot;&gt;request-id&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PjiC9l44Q3XiG8fzUMRT-6">
+          <mxGeometry x="-0.0661" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-14" value="Core BS API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-17" target="PjiC9l44Q3XiG8fzUMRT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-17" target="PjiC9l44Q3XiG8fzUMRT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-17" target="PjiC9l44Q3XiG8fzUMRT-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="400" />
+              <mxPoint x="750" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-17" value="&lt;b&gt;Kaleyra consumer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="442" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-24" value="&lt;b&gt;1.&lt;/b&gt; &lt;b&gt;Kaleyra Save Properties API&lt;/b&gt; (Trigger Multistep program)&lt;br&gt;&lt;br&gt;Inside multistep program logic, in addition to sending SMS,&lt;font style=&quot;font-weight: bold;&quot; color=&quot;#a680b8&quot;&gt;&amp;nbsp;request-id&lt;/font&gt;&amp;nbsp;gets copied to contact property &lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;validation-request-id&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-26" target="PjiC9l44Q3XiG8fzUMRT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-34" value="2. consume msg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PjiC9l44Q3XiG8fzUMRT-28">
+          <mxGeometry x="-0.1748" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-26" value="Kaleyra synthetic transaction event" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="287" y="550" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PjiC9l44Q3XiG8fzUMRT-17" target="PjiC9l44Q3XiG8fzUMRT-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="530" />
+              <mxPoint x="341" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-32" value="1. Send&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#a680b8&quot;&gt;request-id&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PjiC9l44Q3XiG8fzUMRT-27">
+          <mxGeometry x="-0.0962" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-30" value="&lt;b&gt;2. Kaleyra Get Properties API&lt;/b&gt;&lt;br&gt;&lt;br&gt;Obtain&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;validation-request-id&amp;nbsp;&lt;/font&gt;&lt;/b&gt;and compare with original&amp;nbsp;&lt;span style=&quot;color: rgb(166, 128, 184); font-weight: 700;&quot;&gt;request-id&lt;/span&gt;,which means MS program successfully executed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="PjiC9l44Q3XiG8fzUMRT-36" value="&lt;b&gt;3.&lt;/b&gt; Log success or error message indicating synthetic transaction was correctly executed or not&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="120" height="189" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
