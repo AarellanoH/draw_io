@@ -129,15 +129,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XjXSg5h1qu9zyyLHOJ7F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" source="y6Z1SUE2Pmp9UzVw0fYm-29" edge="1">
+        <mxCell id="XjXSg5h1qu9zyyLHOJ7F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="120" as="targetPoint" />
+            <mxPoint x="410" y="121.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="100" />
-              <mxPoint x="450" y="100" />
-              <mxPoint x="450" y="114" />
-              <mxPoint x="400" y="114" />
+              <mxPoint x="770" y="120" />
+              <mxPoint x="480" y="120" />
+              <mxPoint x="480" y="122" />
             </Array>
+            <mxPoint x="770" y="504" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y6Z1SUE2Pmp9UzVw0fYm-29" value="Notification customer event consumer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
