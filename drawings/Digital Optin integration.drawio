@@ -173,6 +173,17 @@
         <mxCell id="XjXSg5h1qu9zyyLHOJ7F-4" value="Store" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E8h-hBoPmmc3Z_fT1wMo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E8h-hBoPmmc3Z_fT1wMo-2" target="y6Z1SUE2Pmp9UzVw0fYm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8h-hBoPmmc3Z_fT1wMo-5" value="STOP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E8h-hBoPmmc3Z_fT1wMo-4">
+          <mxGeometry x="-0.2267" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8h-hBoPmmc3Z_fT1wMo-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
