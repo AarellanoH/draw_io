@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6mvIVdEZMa_-6Su6zqdp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=top;spacingRight=18;spacing=0;arcSize=6;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="190" y="375" width="620" height="395" as="geometry" />
+        <mxCell id="6mvIVdEZMa_-6Su6zqdp-1" value="&lt;b&gt;Notifications/Communications&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=top;spacingRight=18;spacing=0;arcSize=6;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="190" y="375" width="640" height="395" as="geometry" />
         </mxCell>
         <mxCell id="6mvIVdEZMa_-6Su6zqdp-2" value="Core Communications - Google Cloud Platform" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=top;spacingRight=14;spacing=0;arcSize=6;fillColor=none;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="197" y="395" width="463" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6mvIVdEZMa_-6Su6zqdp-4" value="&amp;nbsp;ENS -PCF&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=top;spacingRight=18;spacing=2;arcSize=6;fillColor=none;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="6mvIVdEZMa_-6Su6zqdp-4" value="&lt;b&gt;&amp;nbsp;ENS -PCF&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=top;spacingRight=18;spacing=2;arcSize=6;fillColor=none;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="197" y="590" width="453" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6mvIVdEZMa_-6Su6zqdp-5" value="" style="group;fillColor=none;spacingLeft=0;" parent="1" vertex="1" connectable="0">
