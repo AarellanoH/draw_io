@@ -32,14 +32,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-1" value="ENS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s9PYHiQ7p4qKxA6nhzCI-2" target="s9PYHiQ7p4qKxA6nhzCI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-34" value="Trigger process&lt;div&gt;(&lt;b&gt;ECITMRT2&lt;/b&gt; event)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s9PYHiQ7p4qKxA6nhzCI-19">
           <mxGeometry x="-0.0444" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-2" value="Digital trigger" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
