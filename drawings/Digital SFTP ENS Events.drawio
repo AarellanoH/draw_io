@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s9PYHiQ7p4qKxA6nhzCI-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="280" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="s9PYHiQ7p4qKxA6nhzCI-1" target="s9PYHiQ7p4qKxA6nhzCI-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -75,7 +78,7 @@
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-12" value="New" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s9PYHiQ7p4qKxA6nhzCI-10">
           <mxGeometry x="31" width="49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s9PYHiQ7p4qKxA6nhzCI-16" value="Digital plugin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="s9PYHiQ7p4qKxA6nhzCI-16" value="Ecom plugin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="220" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s9PYHiQ7p4qKxA6nhzCI-18" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Digital SFTP&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;qa-camaro1-xl146.autozone.com)&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
@@ -121,6 +124,9 @@
           <mxGeometry x="-0.2828" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PYHiQ7p4qKxA6nhzCI-54" value="Digital" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
