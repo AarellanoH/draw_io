@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="zCPU6vcjbMXNIj91FuHE">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="56" width="780" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuOCPTLVhGmFNKC-U8rQ-1" target="ZuOCPTLVhGmFNKC-U8rQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-6" value="Generate and SFTP file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZuOCPTLVhGmFNKC-U8rQ-4">
+          <mxGeometry x="-0.0364" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-1" value="SAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuOCPTLVhGmFNKC-U8rQ-3" target="ZuOCPTLVhGmFNKC-U8rQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-3" value="AZPRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZuOCPTLVhGmFNKC-U8rQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="200" as="sourcePoint" />
+            <mxPoint x="143" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="708" y="290" />
+              <mxPoint x="143" y="290" />
+              <mxPoint x="143" y="368" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-26" value="Acton Enriched event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZuOCPTLVhGmFNKC-U8rQ-15">
+          <mxGeometry x="0.0599" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-8" value="&lt;div&gt;&lt;b&gt;SOME APP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Process file and put it in Core BS format" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuOCPTLVhGmFNKC-U8rQ-14" target="ZuOCPTLVhGmFNKC-U8rQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-14" value="&lt;div&gt;&lt;b&gt;Core BS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="368" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuOCPTLVhGmFNKC-U8rQ-17" target="ZuOCPTLVhGmFNKC-U8rQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-17" value="&lt;div&gt;&lt;b&gt;Acton Consumer&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="368" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-20" value="&lt;div&gt;&lt;b&gt;Acton&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-23" value="Commercial" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="780" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCPTLVhGmFNKC-U8rQ-28" value="Core Comm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
