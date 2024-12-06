@@ -328,7 +328,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ElJ22NRdlTvxz7B64nc8-99" value="Commercial" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=23;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="580" height="540" as="geometry" />
+          <mxGeometry x="40" y="560" width="580" height="400" as="geometry" />
         </mxCell>
         <mxCell id="ElJ22NRdlTvxz7B64nc8-46" value="On Prem" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=23;fontColor=#333333;" vertex="1" parent="ElJ22NRdlTvxz7B64nc8-99">
           <mxGeometry x="20" y="40" width="540" height="190" as="geometry" />
@@ -440,7 +440,7 @@
         <mxCell id="ElJ22NRdlTvxz7B64nc8-4" value="V" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=4;spacingTop=-6;fontColor=#999999;connectable=0;allowArrows=0;" vertex="1" parent="ElJ22NRdlTvxz7B64nc8-2">
           <mxGeometry x="98" width="22" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ElJ22NRdlTvxz7B64nc8-14" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=23;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ElJ22NRdlTvxz7B64nc8-14" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f8cecc;strokeColor=#b85450;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=23;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ElJ22NRdlTvxz7B64nc8-15" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYnVpbGRpbmdzIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik0xNC43NjMuMDc1QS41LjUgMCAwIDEgMTUgLjV2MTVhLjUuNSAwIDAgMS0uNS41aC0zYS41LjUgMCAwIDEtLjUtLjVWMTRoLTF2MS41YS41LjUgMCAwIDEtLjUuNWgtOWEuNS41IDAgMCAxLS41LS41VjEwYS41LjUgMCAwIDEgLjM0Mi0uNDc0TDYgNy42NFY0LjVhLjUuNSAwIDAgMSAuMjc2LS40NDdsOC00YS41LjUgMCAwIDEgLjQ4Ny4wMjJNNiA4LjY5NCAxIDEwLjM2VjE1aDV6TTcgMTVoMnYtMS41YS41LjUgMCAwIDEgLjUtLjVoMmEuNS41IDAgMCAxIC41LjVWMTVoMlYxLjMwOWwtNyAzLjV6Ii8+CiAgPHBhdGggZD0iTTIgMTFoMXYxSDJ6bTIgMGgxdjFINHptLTIgMmgxdjFIMnptMiAwaDF2MUg0em00LTRoMXYxSDh6bTIgMGgxdjFoLTF6bS0yIDJoMXYxSDh6bTIgMGgxdjFoLTF6bTItMmgxdjFoLTF6bTAgMmgxdjFoLTF6TTggN2gxdjFIOHptMiAwaDF2MWgtMXptMiAwaDF2MWgtMXpNOCA1aDF2MUg4em0yIDBoMXYxaC0xem0yIDBoMXYxaC0xem0wLTJoMXYxaC0xeiIvPgo8L3N2Zz4=;movable=0;" vertex="1" parent="ElJ22NRdlTvxz7B64nc8-14">
