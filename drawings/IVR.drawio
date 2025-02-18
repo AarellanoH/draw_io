@@ -692,7 +692,7 @@
         <mxCell id="nzACZEG8XHtBMN7f1LNe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="nzACZEG8XHtBMN7f1LNe-1" source="nzACZEG8XHtBMN7f1LNe-14" target="nzACZEG8XHtBMN7f1LNe-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nzACZEG8XHtBMN7f1LNe-94" value="Goldengate replication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nzACZEG8XHtBMN7f1LNe-93">
+        <mxCell id="nzACZEG8XHtBMN7f1LNe-94" value="GoldenGate replication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nzACZEG8XHtBMN7f1LNe-93">
           <mxGeometry x="-0.0498" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
