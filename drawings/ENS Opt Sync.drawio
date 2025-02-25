@@ -320,8 +320,13 @@
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-35" value="Notification Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="310" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-39" target="EFPdOPp-Us6-bY1SsC3M-48">
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-39" target="EFPdOPp-Us6-bY1SsC3M-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-72" value="Delivery emails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFPdOPp-Us6-bY1SsC3M-36">
+          <mxGeometry x="0.2374" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0.038;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-39" target="EFPdOPp-Us6-bY1SsC3M-54">
           <mxGeometry relative="1" as="geometry">
@@ -332,14 +337,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-39" target="EFPdOPp-Us6-bY1SsC3M-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="712" />
-              <mxPoint x="590" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-39" value="Epsilon &lt;br&gt;PCM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588.5" y="650" width="120" height="80" as="geometry" />
         </mxCell>
@@ -347,7 +344,7 @@
           <mxGeometry x="513.88" y="400" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-42" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="604.5" y="840" width="100" height="150" as="geometry" />
+          <mxGeometry x="287" y="705" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-43" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="EFPdOPp-Us6-bY1SsC3M-42">
           <mxGeometry x="20" y="40" width="30" height="40" as="geometry" />
@@ -367,44 +364,37 @@
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-48" value="Customers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EFPdOPp-Us6-bY1SsC3M-42">
           <mxGeometry x="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-49" value="Deliver email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="656" y="770" width="48.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-50" value="OneView" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="20" y="550.01" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-52" value="Opt Status for all customers – One Time Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="348.49" y="713" width="240.01" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-54" target="EFPdOPp-Us6-bY1SsC3M-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-74" value="Notify opt changes&lt;div&gt;originated from Epsilon&#39;s&lt;/div&gt;&lt;div&gt;Preference Page&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFPdOPp-Us6-bY1SsC3M-53">
+          <mxGeometry x="-0.0414" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-54" value="Epsilon Report Tool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="393.88" y="500" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-55" value="Optin/optout through Epsilon&#39;s Preference Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="716" y="859" width="105.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-56" value="Opt status changes export every 4 hours – Ongoing Sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="620" width="132.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0.963;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-47" target="EFPdOPp-Us6-bY1SsC3M-39">
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.03;exitY=0.587;exitDx=0;exitDy=0;dashed=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-47" target="EFPdOPp-Us6-bY1SsC3M-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="690" as="targetPoint" />
+            <mxPoint x="742.06" y="691.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="820" y="915" />
-              <mxPoint x="820" y="690" />
+              <mxPoint x="655" y="793" />
+              <mxPoint x="655" y="760" />
             </Array>
+            <mxPoint x="425" y="780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-59" target="EFPdOPp-Us6-bY1SsC3M-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-59" value="Epsilon Opt Status Load Batch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="228.49" y="720" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-60" value="One Time Load – Save Opt Status for customers that are out of sync (Opt changed before Ongoing Sync was on prod)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="16" y="764" width="205" height="20" as="geometry" />
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-73" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Optin/optout&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;through Epsilon&#39;s&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Preference Page&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFPdOPp-Us6-bY1SsC3M-57">
+          <mxGeometry x="-0.4098" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-61" value="Customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177" y="310" width="115" height="30" as="geometry" />
