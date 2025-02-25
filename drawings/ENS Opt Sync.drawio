@@ -266,7 +266,7 @@
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="EFPdOPp-Us6-bY1SsC3M-21" target="EFPdOPp-Us6-bY1SsC3M-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EFPdOPp-Us6-bY1SsC3M-21" value="Customer Opt API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="EFPdOPp-Us6-bY1SsC3M-21" value="Customer APIs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;gradientColor=none;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="108" y="401.88" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EFPdOPp-Us6-bY1SsC3M-22" value="" style="group" vertex="1" connectable="0" parent="1">
