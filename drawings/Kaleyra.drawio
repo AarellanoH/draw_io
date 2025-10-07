@@ -23,11 +23,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L82lrpWxgGKD7VNZnVuk-2" value="CoreComm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-2" value="CoreComm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L82lrpWxgGKD7VNZnVuk-4" value="Kaleyra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-10" value="Contains ShortCode Config" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
