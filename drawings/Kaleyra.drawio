@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="qNNPFPJdu8fD2wSAjx6q">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L82lrpWxgGKD7VNZnVuk-1" target="L82lrpWxgGKD7VNZnVuk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-7" value="CoreComm API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L82lrpWxgGKD7VNZnVuk-6">
+          <mxGeometry x="-0.2308" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-1" value="Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="L82lrpWxgGKD7VNZnVuk-2" target="L82lrpWxgGKD7VNZnVuk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-9" value="Kaleyra API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L82lrpWxgGKD7VNZnVuk-5">
+          <mxGeometry x="-0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-2" value="CoreComm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L82lrpWxgGKD7VNZnVuk-4" value="Kaleyra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
