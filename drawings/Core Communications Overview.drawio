@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="3">
   <diagram name="Communication Events" id="KKq-k4mfs-p19cEHmZZm">
     <mxGraphModel dx="2322" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -657,7 +657,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ISjYinrsMil3fSuC_8tO" name="Opt Sync">
-    <mxGraphModel dx="2101" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -947,7 +947,7 @@
         <mxCell id="qO7EN3k0Ayynh0vugSB7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="qO7EN3k0Ayynh0vugSB7-1" source="qO7EN3k0Ayynh0vugSB7-4" target="qO7EN3k0Ayynh0vugSB7-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qO7EN3k0Ayynh0vugSB7-13" value="Update Optin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="qO7EN3k0Ayynh0vugSB7-1" source="qO7EN3k0Ayynh0vugSB7-14" target="qO7EN3k0Ayynh0vugSB7-4" edge="1">
+        <mxCell id="qO7EN3k0Ayynh0vugSB7-13" value="Update Optin&lt;br&gt;Channel/Subchannel,etc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="qO7EN3k0Ayynh0vugSB7-1" source="qO7EN3k0Ayynh0vugSB7-14" target="qO7EN3k0Ayynh0vugSB7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qO7EN3k0Ayynh0vugSB7-14" value="az.com/Store/Etc" style="pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f5f5f5;shape=mxgraph.mscae.intune.user_group;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;strokeWidth=2;" parent="qO7EN3k0Ayynh0vugSB7-1" vertex="1">
@@ -1000,11 +1000,16 @@
         </mxCell>
         <mxCell id="X_drr-FeYjDHmkgqX8M8-34" value="Update Opts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X_drr-FeYjDHmkgqX8M8-33" vertex="1" connectable="0">
           <mxGeometry x="-0.3688" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-41" y="152" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3eQt_-XueyjxLWtktUJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="37QZKE8_0c3M-aqTBtCm-1" target="i5kKOQh0TAfEHxt8j-tL-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="390" />
+              <mxPoint x="540" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="J7clrJI91NpC8ShLTLhY-1" value="&lt;Text&gt;" style="strokeColor=#666666;shadow=1;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;spacingTop=10;spacingLeft=28;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="675" y="235.0000000000001" width="160" height="40" as="geometry" />
