@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="LmKRyoyt28iCeffyR0GZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1251" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-1" value="Python Script" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" vertex="1" parent="1">
+          <mxGeometry x="210" y="259.6" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21xEc5G8Cf2Je-EaGD83-2" target="21xEc5G8Cf2Je-EaGD83-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="252" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;JIRA API" style="image;html=1;image=img/lib/atlassian/Jira_Software_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="195.4" y="100" width="74" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-6" value="Graphs, reports, etc" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.graph" vertex="1" parent="1">
+          <mxGeometry x="400" y="257" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="21xEc5G8Cf2Je-EaGD83-1" target="21xEc5G8Cf2Je-EaGD83-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21xEc5G8Cf2Je-EaGD83-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="21xEc5G8Cf2Je-EaGD83-1" target="21xEc5G8Cf2Je-EaGD83-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
