@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
-  <diagram name="Page-1" id="BCh7PzlqyIO2Ea1w3J7w">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="California Embedded Battery" id="BCh7PzlqyIO2Ea1w3J7w">
+    <mxGraphModel dx="1251" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-32" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="400" width="670" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-29" parent="7-e7pwh1McuwYz-vPlrC-32" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="400" width="670" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-5" edge="1" parent="7-e7pwh1McuwYz-vPlrC-32" source="7-e7pwh1McuwYz-vPlrC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-e7pwh1McuwYz-vPlrC-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-6" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6255" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-9" edge="1" parent="7-e7pwh1McuwYz-vPlrC-32" source="7-e7pwh1McuwYz-vPlrC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-e7pwh1McuwYz-vPlrC-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-10" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.431" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-1" parent="7-e7pwh1McuwYz-vPlrC-32" style="rhombus;whiteSpace=wrap;html=1;" value="Store =&amp;nbsp;&lt;div&gt;California?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="260" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-4" parent="7-e7pwh1McuwYz-vPlrC-32" style="whiteSpace=wrap;html=1;" value="Display hardcoded/default message*" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-8" parent="7-e7pwh1McuwYz-vPlrC-32" style="whiteSpace=wrap;html=1;" value="Do not show anything" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-28" parent="7-e7pwh1McuwYz-vPlrC-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PCM Current solution&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-34" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="620" width="870" x="50" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-30" parent="7-e7pwh1McuwYz-vPlrC-34" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="570" width="870" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-11" edge="1" parent="7-e7pwh1McuwYz-vPlrC-34" source="7-e7pwh1McuwYz-vPlrC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7-e7pwh1McuwYz-vPlrC-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-12" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6255" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-13" edge="1" parent="7-e7pwh1McuwYz-vPlrC-34" source="7-e7pwh1McuwYz-vPlrC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-e7pwh1McuwYz-vPlrC-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-14" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.431" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-15" parent="7-e7pwh1McuwYz-vPlrC-34" style="rhombus;whiteSpace=wrap;html=1;" value="Store =&amp;nbsp;&lt;div&gt;California?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-17" parent="7-e7pwh1McuwYz-vPlrC-34" style="whiteSpace=wrap;html=1;" value="Do not show anything" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-22" edge="1" parent="7-e7pwh1McuwYz-vPlrC-34" source="7-e7pwh1McuwYz-vPlrC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-e7pwh1McuwYz-vPlrC-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-23" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.5405" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-25" edge="1" parent="7-e7pwh1McuwYz-vPlrC-34" source="7-e7pwh1McuwYz-vPlrC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7-e7pwh1McuwYz-vPlrC-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-31" connectable="0" parent="7-e7pwh1McuwYz-vPlrC-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4718" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-18" parent="7-e7pwh1McuwYz-vPlrC-34" style="rhombus;whiteSpace=wrap;html=1;" value="cbeReceiptText has value?" vertex="1">
+          <mxGeometry height="170" width="140" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-21" parent="7-e7pwh1McuwYz-vPlrC-34" style="whiteSpace=wrap;html=1;" value="Display cbeReceiptText value" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-24" parent="7-e7pwh1McuwYz-vPlrC-34" style="whiteSpace=wrap;html=1;" value="Dsiaplay hardcoded/default message*" vertex="1">
+          <mxGeometry height="60" width="120" x="285" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-33" parent="7-e7pwh1McuwYz-vPlrC-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PCM Requested solution&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-e7pwh1McuwYz-vPlrC-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*&lt;b&gt;hardcoded/default message&lt;/b&gt; = &lt;font&gt;&quot;&lt;span data-olk-copy-source=&quot;MessageBody&quot; style=&quot;&quot;&gt;The California Covered Battery-Embedded Waste Recycling Fee of 1.5% (not to exceed $15.00) was paid by AutoZone, as applicable.&quot;&lt;/span&gt;&lt;/font&gt;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="950" x="40" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
