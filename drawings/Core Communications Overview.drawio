@@ -1126,7 +1126,7 @@
             <mxPoint x="5" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToJ391lFPeOM4tRn9pVY-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=26;fontColor=#333333;" value="3rd Party Cloud" vertex="1">
+        <mxCell id="ToJ391lFPeOM4tRn9pVY-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;container=1;collapsible=0;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;dropTarget=1;dashed=1;shadow=1;arcSize=2;verticalAlign=top;align=left;spacingLeft=26;fontColor=#333333;" value="3rd Party Cloud - Vendors" vertex="1">
           <mxGeometry height="250" width="315" x="1015" y="190" as="geometry" />
         </mxCell>
         <mxCell id="ToJ391lFPeOM4tRn9pVY-85" parent="ToJ391lFPeOM4tRn9pVY-84" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktY2xvdWQiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPHBhdGggZD0iTTQuNDA2IDMuMzQyQTUuNTMgNS41MyAwIDAgMSA4IDJjMi42OSAwIDQuOTIzIDIgNS4xNjYgNC41NzlDMTQuNzU4IDYuODA0IDE2IDguMTM3IDE2IDkuNzczIDE2IDExLjU2OSAxNC41MDIgMTMgMTIuNjg3IDEzSDMuNzgxQzEuNzA4IDEzIDAgMTEuMzY2IDAgOS4zMThjMC0xLjc2MyAxLjI2Ni0zLjIyMyAyLjk0Mi0zLjU5My4xNDMtLjg2My42OTgtMS43MjMgMS40NjQtMi4zODNtLjY1My43NTdjLS43NTcuNjUzLTEuMTUzIDEuNDQtMS4xNTMgMi4wNTZ2LjQ0OGwtLjQ0NS4wNDlDMi4wNjQgNi44MDUgMSA3Ljk1MiAxIDkuMzE4IDEgMTAuNzg1IDIuMjMgMTIgMy43ODEgMTJoOC45MDZDMTMuOTggMTIgMTUgMTAuOTg4IDE1IDkuNzczYzAtMS4yMTYtMS4wMi0yLjIyOC0yLjMxMy0yLjIyOGgtLjV2LS41QzEyLjE4OCA0LjgyNSAxMC4zMjggMyA4IDNhNC41MyA0LjUzIDAgMCAwLTIuOTQxIDEuMXoiLz4KPC9zdmc+;movable=0;" value="" vertex="1">
@@ -1311,6 +1311,18 @@
         </mxCell>
         <mxCell id="L1TiNl2PEmuY5NLEvcEj-29" connectable="0" parent="L1TiNl2PEmuY5NLEvcEj-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fetch files" vertex="1">
           <mxGeometry relative="1" x="-0.2202" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1TiNl2PEmuY5NLEvcEj-30" edge="1" parent="1" source="ToJ391lFPeOM4tRn9pVY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.098;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" target="ToJ391lFPeOM4tRn9pVY-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1173" y="87" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1TiNl2PEmuY5NLEvcEj-31" connectable="0" parent="L1TiNl2PEmuY5NLEvcEj-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trigger transactional&lt;div&gt;and promotional communications&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0915" y="-3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
