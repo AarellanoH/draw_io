@@ -1324,7 +1324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MMH Integration - SAP" id="1MWc7aOyD5Mtm3vlRcgp">
-    <mxGraphModel dx="3535" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="-249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xLBSiFeufEMRgFMMwioF-0" />
         <mxCell id="xLBSiFeufEMRgFMMwioF-1" parent="xLBSiFeufEMRgFMMwioF-0" />
@@ -1408,21 +1408,22 @@
           <mxGeometry height="18.75" width="25.299999999999997" x="112.69999999999999" as="geometry" />
         </mxCell>
         <mxCell id="ysIaCxJicMkgLhVqKsir-83" parent="xLBSiFeufEMRgFMMwioF-1" style="pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f5f5f5;shape=mxgraph.mscae.intune.user_group;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;strokeWidth=2;" value="Users" vertex="1">
-          <mxGeometry height="40" width="50" x="1870" y="2970" as="geometry" />
+          <mxGeometry height="40" width="50" x="1870" y="3190" as="geometry" />
         </mxCell>
         <mxCell id="ysIaCxJicMkgLhVqKsir-85" edge="1" parent="xLBSiFeufEMRgFMMwioF-1" source="4TrFL_sLMJ6VkCC86350-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" target="ysIaCxJicMkgLhVqKsir-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2060" y="2880" />
-              <mxPoint x="1895" y="2880" />
+              <mxPoint x="2060" y="2940" />
+              <mxPoint x="1895" y="2940" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ysIaCxJicMkgLhVqKsir-88" edge="1" parent="xLBSiFeufEMRgFMMwioF-1" source="ysIaCxJicMkgLhVqKsir-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" target="ysIaCxJicMkgLhVqKsir-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1289" y="2880" />
-              <mxPoint x="1895" y="2880" />
+              <mxPoint x="1289" y="2810" />
+              <mxPoint x="1289" y="2940" />
+              <mxPoint x="1895" y="2940" />
             </Array>
           </mxGeometry>
         </mxCell>
