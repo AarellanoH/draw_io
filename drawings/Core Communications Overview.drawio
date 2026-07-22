@@ -1656,7 +1656,7 @@
         <mxCell id="ysIaCxJicMkgLhVqKsir-45" parent="ysIaCxJicMkgLhVqKsir-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Pubsub Subscription" vertex="1">
           <mxGeometry height="30" width="60" x="478.12" y="375" as="geometry" />
         </mxCell>
-        <mxCell id="ysIaCxJicMkgLhVqKsir-46" edge="1" parent="ysIaCxJicMkgLhVqKsir-0" source="ysIaCxJicMkgLhVqKsir-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ysIaCxJicMkgLhVqKsir-49">
+        <mxCell id="ysIaCxJicMkgLhVqKsir-46" edge="1" parent="ysIaCxJicMkgLhVqKsir-0" source="ysIaCxJicMkgLhVqKsir-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" target="ysIaCxJicMkgLhVqKsir-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ysIaCxJicMkgLhVqKsir-47" parent="ysIaCxJicMkgLhVqKsir-0" style="strokeWidth=2;html=1;shape=stencil(zVbBcsIgEP0ajulgqGM9dqK9tZcePK8RlREhA1Tt35eEZDQmcXDrTHtj3w7v7bIPBsIyu4WCk5Qq2HPCZiRNZ8Lw3HloBg587FfbkElpCI8hfKlDsEW5ocIOYAQsJQ8Z64ze8aNYuZpBqC03wpVZNif0lZSUlLAs10p5EqGVbWUu8p4MhCoLOwUy+kTHQee7BkJUeIk9d9y00HODH4uAkPTtDi2cFEZp+oySmqO0pm2tp3QcK/d+v97oSixS6zGdTSLVPjGddaY2ihX7vRdjpTBKFCeFumH02h7RE1tgJobz4mM6i75lQ52xzCNDjybLlpDvNkZ/qVVvlQWUD3In0aT3+sDP5fc+fP39NwRSqAuCCYIBTO4Xpl2CaVxYU5wSOAmbGO2gPIQWvQSz4YmnSdYSNi332iPnRRfurxbTMIbh7xpGTCeX2vIbt8DjHYtV6IAvWbbWht8w7FpIGT4TN1TvcvV/NyUlaFP2n3+TGzzGaltnDhUaPokV8AM=);whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;container=0;collapsible=0;recursiveResize=1;dropTarget=1;spacingRight=24;shadow=1;spacingTop=10;spacingLeft=28;align=center;" value="Tata" vertex="1">
