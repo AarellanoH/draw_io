@@ -1895,16 +1895,6 @@
         <mxCell id="g7TvXBSdkY6qA2FIwGKy-160" parent="g7TvXBSdkY6qA2FIwGKy-156" style="pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f5f5f5;shape=mxgraph.mscae.intune.user_group;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;strokeWidth=2;" value="Loyalty" vertex="1">
           <mxGeometry height="37" width="50" x="100" y="102" as="geometry" />
         </mxCell>
-        <mxCell id="g7TvXBSdkY6qA2FIwGKy-161" edge="1" parent="g7TvXBSdkY6qA2FIwGKy-39" source="g7TvXBSdkY6qA2FIwGKy-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=1 2;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="189.88499999999976" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g7TvXBSdkY6qA2FIwGKy-162" connectable="0" parent="g7TvXBSdkY6qA2FIwGKy-161" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Update Optin&lt;br&gt;Channel/Subchannel,etc" vertex="1">
-          <mxGeometry relative="1" x="-0.3211" y="-4" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g7TvXBSdkY6qA2FIwGKy-176" edge="1" parent="g7TvXBSdkY6qA2FIwGKy-1" source="g7TvXBSdkY6qA2FIwGKy-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" target="g7TvXBSdkY6qA2FIwGKy-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
